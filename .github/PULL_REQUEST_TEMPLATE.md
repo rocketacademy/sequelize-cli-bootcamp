@@ -2,7 +2,7 @@ Please fill out the survey before submitting the pull request. Thanks!
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
-How many hours did you spend on this assignment?
+How many hours did you spend on this assignment? A LOT
 
 Please fill in one error and/or error message you received while working on this assignment.
 
